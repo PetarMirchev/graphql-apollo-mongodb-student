@@ -1,9 +1,9 @@
-require("dotenv").config();
+//require("dotenv").config();
 
 
 const mongoose = require("mongoose");
 
-const DATABASE_URL = process.env.DATABASE_URL;
+const DATABASE_URL =  mongodb+srv://<username>:<password>@cluster-cms.5jcqr.mongodb.net/<Database>?retryWrites=true&w=majority  //process.env.DATABASE_URL;
 
 const connectDb = () => {
   return mongoose.connect(DATABASE_URL, { useUnifiedTopology: true, useNewUrlParser: true }, err => {
