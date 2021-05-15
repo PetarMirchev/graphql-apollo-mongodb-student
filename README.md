@@ -23,8 +23,8 @@ npm run server
 
 **********************************************************************************************
 
-Project prepared for deploy at
-https://www.heroku.com/
+Project prepared for deploy at https://www.heroku.com/
+
 app can be found at: https://graphql-apollo-mongodb-student.herokuapp.com/
 
 Create a new app on heroku and add the following config vars
