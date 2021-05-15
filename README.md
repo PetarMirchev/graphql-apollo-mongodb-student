@@ -27,7 +27,8 @@ https://www.heroku.com/
 app can be found at: https://graphql-apollo-mongodb-student.herokuapp.com/
 
 Create a new app on heroku and add the following config vars
-![image](https://user-images.githubusercontent.com/73035495/118362482-545d7700-b598-11eb-8838-4a21360e8546.png)
+![config Vars](https://user-images.githubusercontent.com/73035495/118362634-ecf3f700-b598-11eb-97ba-b3d2f9b83e36.jpg)
+
 
 
 ***********************************************************************************************
