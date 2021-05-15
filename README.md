@@ -32,6 +32,8 @@ Create a new app on heroku and add the following config vars
 
 
 ***********************************************************************************************
- for testing use https://www.postman.com/downloads/
- ![image](https://user-images.githubusercontent.com/73035495/118362007-61796680-b596-11eb-8d09-d52d396da575.png)
+ for testing use postman:
+ https://www.postman.com/downloads/
+![postman](https://user-images.githubusercontent.com/73035495/118362688-35131980-b599-11eb-9a4c-028607d57c84.jpg)
+
 
