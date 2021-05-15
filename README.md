@@ -15,9 +15,10 @@ Creating a Database in mongoDB
 https://raw.githubusercontent.com/AlexanderPPetrov/st-js-be-2020/master/docs/creating_cluster.jpg
 
 *********************************************************************************************
-To start the server locally use
+To start the server locally use:
 
 npm install
+
 npm run server
 
 **********************************************************************************************
